@@ -1,4 +1,5 @@
 # VidInfo - Oembed Video Info
+[![Build Status](https://travis-ci.org/jopacicdev/vidinfo.svg?branch=master)](https://travis-ci.org/jopacicdev/vidinfo)
 
 Vidinfo package takes `$url` parameter and returns video info via oembed urls from the following service providers:
 
