@@ -10,7 +10,7 @@ Vidinfo package takes `$url` parameter and returns video info via oembed urls fr
 
 # Install via Composer
 ```sh
-$ composer require josip/vidinfo dev-master
+$ composer require josip/vidinfo
 ```
 
 
